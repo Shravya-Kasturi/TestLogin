@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "771838260560",
+    "firebase_url": "https://testlogin-49f61.firebaseio.com",
+    "project_id": "testlogin-49f61",
+    "storage_bucket": "testlogin-49f61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771838260560:android:4550340e622492a3",
+        "android_client_info": {
+          "package_name": "com.test.kasturi.testlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771838260560-of9d7nakcbt7v6lqka4ssl2pnftdhk8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.kasturi.testlogin",
+            "certificate_hash": "fae419ed9703c21518dcf641763ed291afea26fe"
+          }
+        },
+        {
+          "client_id": "771838260560-jo0lje6fr08b9tjqhpd51qsgd0qtum0l.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "771838260560-jo0lje6fr08b9tjqhpd51qsgd0qtum0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUWxdMOA8rQ5Ln7z9LFxG-ePfT2qWU8sk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771838260560-jo0lje6fr08b9tjqhpd51qsgd0qtum0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
